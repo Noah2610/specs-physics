@@ -35,6 +35,7 @@ nphysics3d = { version = "0.13", optional = true }
 
 [dependencies.amethyst]
 git = "https://github.com/amethyst/amethyst"
+rev = "8c022f464e3d17a4b997cad83c5a1a62c7289ace"
 optional = true
 default-features = false
 features = ["vulkan"]
